@@ -44,6 +44,14 @@
     {
       "class": "shapeGroup",
       "id": "944918E0-6D6D-4956-9ED4-27C38E7E2F50"
+    },
+    {
+      "class": "text",
+      "id": "84ED3BAF-AFF1-435D-93C4-168B61BEC456"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "24748DDB-59C9-4E11-8400-FDE8DAC35D74"
     }
   ],
   "name": "Mobile",
